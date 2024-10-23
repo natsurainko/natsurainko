@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]  
 > The data in the chart below is not accurate, and it seems to only count my personal data  
-> In fact, the programming language I use most is CSharp  
+> In fact, the programming language I use most is `.NET CSharp (C#)`  
 > All the above data does not seem to include the data of the repositories in the organizations I created
 
 ### ℹ️ Status 
