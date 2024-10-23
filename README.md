@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I am natsurainko. 👋
 
-<!--
-**natsurainko/natsurainko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]  
+> The data in the chart below is not accurate, and it seems to only count my personal data  
+> In fact, the programming language I use most is CSharp  
+> All the above data does not seem to include the data of the repositories in the organizations I created
 
-Here are some ideas to get you started:
+### ℹ️ Status 
+![Status](https://github-readme-stats.vercel.app/api?username=natsurainko&show_icons=true&include_all_commits=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Major Tech Stacks
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsurainko)
+
+
