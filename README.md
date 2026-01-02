@@ -1,4 +1,3 @@
-## Hi, I am natsurainko. 👋
+# Hi, I am natsurainko. 👋
 
-### ℹ️ Status 
-![Status](https://github-readme-stats.vercel.app/api?username=natsurainko&show_icons=true&include_all_commits=true&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,ts,dotnet,clion,visualstudio,vscode,github,windows)](https://skillicons.dev)
